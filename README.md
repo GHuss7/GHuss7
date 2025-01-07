@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personal budgeting app
 - 🌱 I’m currently learning Linux, Cloud Computing, and App Deployment
-- ⚡ Interests: AI, ML, Process Automation, App Development
+- ⚡ Interests: AI, ML, Operations Research, Process Automation, App Development
 
