@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a personal budgeting app
+- 🌱 I’m currently learning Linux, Cloud Computing, and App Deployment
+- ⚡ Interests: AI, ML, Process Automation, App Development
+
